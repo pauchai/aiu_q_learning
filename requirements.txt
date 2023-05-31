@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+IPython
+seaborn
+vizdoom==1.1.9
+gdown
+imageio==2.5
+opencv-python
+moviepy
